@@ -1,0 +1,11 @@
+node_modules/
+#################
+## Images
+#################
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.psd
+*.ai

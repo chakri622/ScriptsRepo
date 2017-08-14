@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\helpers",
+    "\\public",
+    "\\public\\js",
+    "\\server",
+    "\\views"
+  ],
+  "SelectedNode": "\\server\\configure.js",
+  "PreviewInSolutionExplorer": false
+}
